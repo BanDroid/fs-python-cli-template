@@ -3,6 +3,7 @@
     "IDX.aI.enableCodebaseIndexing": true,
     "workbench.colorTheme": "Default Dark Modern",
     "workbench.editor.enablePreview": false,
+    "window.autoDetectColorScheme": false,
     "files.autoSave": "off",
     "[python]": {
         "editor.defaultFormatter": "ms-python.black-formatter",
